@@ -1,0 +1,167 @@
+body
+{
+	background-image: url("http://cs.millersville.edu/~sschwartz/366/HTML_CSS_Lab/Images/background.png");
+	font-family: Verdana, Tahoma, sans-serif;
+	font-size: 8pt;
+	margin: 0;
+	padding: 0;
+}
+
+#banner
+{
+	background-image: url("http://cs.millersville.edu/~sschwartz/366/HTML_CSS_Lab/Images/bannerbg.png");
+	height: 50px;
+	text-align: center;
+}
+
+#header
+{
+	font-size: 24pt;
+	text-align: center;
+	font-weight: bold;
+	font-family: Tahoma, Verdana, sans-serif;
+	text-shadow: 3px 3px #999999; 
+}
+
+#content
+{
+	font-size: 8pt;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	width: 800px;
+	border: 4px solid grey;
+	border-radius: 20px;
+	overflow: hidden;
+}
+
+#overview
+{
+	width: 250px;
+	float: right;
+	background-color: #A2B964;
+}
+
+#left-top
+{
+	width: 550px;
+	height: 83px;
+	background-image: url("http://cs.millersville.edu/~sschwartz/366/HTML_CSS_Lab/Images/rbg.png");
+	background-repeat: repeat-x;
+	vertical-align: baseline;
+}
+
+.rating{
+	font-size: 48pt;
+	color: #FF0000;
+	font-weight: bold;
+}
+#left-top img
+{
+	float: left;
+}
+
+.column
+{
+	float: left;
+	width: 47%;
+	margin-left: 2%;
+}
+
+#left
+{
+	width: 550px;
+	overflow:hidden;
+}
+
+.review
+{
+
+}
+
+.reviewAuthor
+{
+	font-style: italic;
+}
+
+.reviewImage
+{
+	margin-right: 5px;
+	float: left;
+	overflow: hidden;
+}
+
+.reviewDiv
+{
+	font-size: 8pt;
+	border: 2px solid grey;
+	font-weight: bold;
+	border-radius: 10px;
+	background-color: #E8DC9B;
+	padding: 8px;
+	margin-top: 26px;
+	vertical-align: baseline;
+	overflow: hidden;
+}
+
+#right
+{
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	width: 250px;
+	float: right;
+	background-color: #A2B964;
+	margin: 0px;
+	overflow: hidden;
+}
+
+dt
+{
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+dl
+{
+
+}
+
+dd
+{
+	padding-bottom: 3.33px;
+}
+
+li
+{
+	margin-left: -40px;
+}
+
+ul
+{
+	list-style: none;
+}
+
+#bottom
+{
+	background-color: #A2B964;
+	padding: 5px;
+	text-align: center;
+	width: 790px;
+	float: left;
+	overflow: hidden;
+}
+#validator
+{
+	position: fixed;
+	right: 0px;
+	bottom: 5px;
+	flex-direction: column;
+	overflow: hidden;
+}
+.val
+{
+	opacity: 0.5;
+	margin-top: 5px;
+	overflow: hidden;
+}
