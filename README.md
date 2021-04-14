@@ -1,5 +1,5 @@
 
-# Courses, languages used, & Project/lab Descriptions
+# Courses, languages used, & project/lab descriptions
 
 The following are the major courses I took throughout college; and includes the languages we used throughout as well as major things we did in these courses.  
 
