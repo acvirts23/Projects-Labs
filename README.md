@@ -1,5 +1,5 @@
 
-# The following are the major courses I took throughout college; and includes the languages we used throughout as well as various major things we did in these courses.
+# The following are the major courses I took throughout college; and includes the languages we used throughout as well as major things we did in these courses.
 330: Programming Languages (Labs located on local machine at school):
   Used OCaml for the entirety of the course
 
