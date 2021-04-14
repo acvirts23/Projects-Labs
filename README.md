@@ -1,4 +1,5 @@
 # Projects-Labs
+#The following are the major courses I took throughout college and the languages we used throughout these courses.
 330: Programming Languages (Labs located on local machine at school):
   Used OCaml for the entirety of the course
 
