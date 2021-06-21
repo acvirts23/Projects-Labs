@@ -22,7 +22,7 @@ The following are the major courses I took throughout college; and includes the 
   Used Python and Kali Linux for this class
   
 420: Software Engineering:
-  Created and Designed our own UML editor in this course, our team decided to use Typescript, alongside HTML/CSS, and Javascript.
+  Created and Designed our own UML editor in this course, our team decided to use Typescript, alongside HTML/CSS, and NodeJS.
   
 450: Artificial Intelligence:
   Used Lisp for the first half of the course, and then Python for the second half.
